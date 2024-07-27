@@ -1,0 +1,36 @@
+body{
+    width: 1140px;
+    margin: auto;
+    background-color: #F0F0F0;
+}
+
+.congratulation{
+    background-color: white;
+    width: 300px;
+    padding-bottom: 20px;
+    padding-top: 80px;
+    margin: auto;
+    text-align: center;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+}
+.text-section{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.text-section p{
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    border: none;
+}
